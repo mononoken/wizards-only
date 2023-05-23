@@ -1,4 +1,4 @@
-# # Members-Only!
+# # Wizards-Only!
 
 ![A screenshot showing a preview of the project.](screenshot.png "Project Preview")
 
@@ -19,7 +19,7 @@ tl
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com), my primary guide in the vast sea of web-development learning.
-  - For providing this project idea ([see the instructions for this assignment here](https://www.theodinproject.com/lessons/intermediate-html-and-css-sign-up-form))
+  - For providing this project idea ([see the instructions for this assignment here](https://www.theodinproject.com/lessons/ruby-on-rails-members-only))
   - And the Discord community!
 
 ## Reporting Issues/Feedback/Contact
