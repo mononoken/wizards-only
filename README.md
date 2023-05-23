@@ -1,24 +1,31 @@
-# README
+# # Members-Only!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![A screenshot showing a preview of the project.](screenshot.png "Project Preview")
 
-Things you may want to cover:
+tl;dr
 
-* Ruby version
+[Click here to see a live-preview hosted on Github).](https://mononoken.github.io/)
 
-* System dependencies
+## Table of Contents
 
-* Configuration
+- [General Information](#general-information)
+- [Acknowledgements](#acknowledgements)
+- [Reporting Issues / Feedback / Contact](#reporting-issuesfeedbackcontact)
 
-* Database creation
+## General Information
 
-* Database initialization
+tl
 
-* How to run the test suite
+## Acknowledgements
 
-* Services (job queues, cache servers, search engines, etc.)
+- [The Odin Project](https://www.theodinproject.com), my primary guide in the vast sea of web-development learning.
+  - For providing this project idea ([see the instructions for this assignment here](https://www.theodinproject.com/lessons/intermediate-html-and-css-sign-up-form))
+  - And the Discord community!
 
-* Deployment instructions
+## Reporting Issues/Feedback/Contact
 
-* ...
+Bug reports are greatly appreciated. You may create a new issue with a description of the problem, and the steps leading up to it.
+
+PRs are kindly appreciated.
+
+You may also contact me at: mail@feelsufo.com
