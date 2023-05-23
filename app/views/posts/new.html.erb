@@ -1,6 +1,16 @@
 <h1>New Post</h1>
-<%= form_with model: @post do |form| %>
-  <%= form.text_field :title %>
-  <%= form.text_area :body %>
-  <%= form.submit %>
-<% end %>
+  <%= form_with model: @post do |form| %>
+    <ul>
+      <li>
+        <%= form.label :title %>
+        <%= form.text_field :title %>
+      </li>
+      <li>
+        <%= form.label :body %>
+        <%= form.text_area :body %>
+      </li>
+      <li>
+        <%= form.submit %>
+      </li>
+    </ul>
+  <% end %>
