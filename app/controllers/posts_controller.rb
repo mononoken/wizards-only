@@ -10,7 +10,7 @@ class PostsController < ApplicationController
     @post.user_id = current_user.id
 
     if @post.save
-      redirect_to @post
+      redirect_to posts_path
     else
       render :new, status: :unprocessable_entity
     end
