@@ -6,7 +6,8 @@
   <% @posts.each do |post| %>
     <li class="post">
         <h2><%= post.title %></h2>
-        <div><%= post.body %></div>
+        <div class="user-email"><%= User.find(post.user_id).email %></div>
+        <p><%= post.body %></p>
       </li>
   <% end %>
 </ul>
